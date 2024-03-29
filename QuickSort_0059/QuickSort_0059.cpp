@@ -83,3 +83,7 @@ void display() {
 	cout << "Number of data movement : " << mov_count << endl;
 }
 
+int main() {
+
+}
+
