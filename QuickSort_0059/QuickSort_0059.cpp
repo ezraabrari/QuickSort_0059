@@ -78,5 +78,8 @@ void display() {
 	for (int i = 0; i < n; i++) {
 		cout << arr[i] << " ";
 	}
+
+	cout << "\n\nNumber of comparassion" << cmp_count << endl;
+
 }
 
